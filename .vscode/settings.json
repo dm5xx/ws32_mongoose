@@ -1,0 +1,8 @@
+{
+    "idf.portWin": "COM4",
+    "idf.flashType": "UART",
+    "files.associations": {
+        "ethernet_init.h": "c"
+    },
+    "idf.adapterTargetName": "esp32"
+}

@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+    ],
+    "settings": {
+        "files.associations": {
+            "ethernet_init.h": "c",
+            "freertos.h": "c",
+            "mongoose.h": "c"
+        }
+    }
+}
